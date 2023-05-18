@@ -1,0 +1,19 @@
+.video-container {
+    text-align: center;
+  }
+  
+  .video-image {
+    width: 100%;
+    height: auto;
+    max-height: 300px; 
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .video-content {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  
